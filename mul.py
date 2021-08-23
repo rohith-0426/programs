@@ -1,3 +1,3 @@
 a=int(input("Enter a number : "))
 b=int(input("Enter a number : "))
-print(f"Sum : {a*b}")
+print(f"Product : {a*b}")
