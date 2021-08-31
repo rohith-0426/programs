@@ -126,3 +126,6 @@ Hello, function 'bar' from module 'a' calling
 Hello, function 'foo' from module 'b' calling
 
 
+# DIFFERENCE BETWEEN MODULES AND PACKAGES
+
+![Alt text]( https://i0.wp.com/techvidvan.com/tutorials/wp-content/uploads/sites/2/2021/05/modules-vs-packages.jpg?fit=1200%2C628&ssl=1 "a title")
